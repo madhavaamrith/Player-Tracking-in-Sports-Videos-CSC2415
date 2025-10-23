@@ -11,3 +11,6 @@ https://drive.google.com/drive/folders/1f8OJOod-OZiUSjso7gNooi5q-G2xcD_A?usp=dri
  
 3.	Screenshots of outputs : 
 https://drive.google.com/drive/folders/1QA7CtqkqdRL-OuYfmmplm2ShLsz8GxPt?usp=drive_link
+
+4.	Report document : 
+https://drive.google.com/file/d/18CYWVm3J3qAJ7yB3GYCMgdCwpE6Htwm4/view?usp=drive_link
